@@ -47,5 +47,4 @@ UpdDate = function() {
 };
 var hr = window.location.href;
 if (hr.substr(0, 28) != 'https://coolguy284.github.io' && hr.substr(0, 35) != 'https://replit.org/data/web_project') {
-  document.write('<br>This code is not legit.  It\'s original source was <a href=\'https://coolguy284.github.io\'>https://coolguy284.github.io</a>');
-}
+ 
